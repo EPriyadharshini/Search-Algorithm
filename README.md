@@ -104,11 +104,8 @@ else:
 ```
 ## Sample Input and Output
 ## output
-1)
 <img width="348" alt="image" src="https://github.com/EPriyadharshini/Search-Algorithm/assets/144870831/5442443a-d06c-4094-ae19-ecee0e79fb89">
-2)
 <img width="406" alt="image" src="https://github.com/EPriyadharshini/Search-Algorithm/assets/144870831/2748700e-c636-42e7-a06d-b198eb905b7c">
-3)
 <img width="346" alt="image" src="https://github.com/EPriyadharshini/Search-Algorithm/assets/144870831/fe8ca4f0-63d4-4a3c-b055-41aaadf7ae26">
 
 ## Result
